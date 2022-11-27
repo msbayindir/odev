@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
-using YGTOdev.Models;
+using Odev.Models;
 
-namespace YGTOdev.Controllers
+namespace Odev.Controllers
 {
     public class HomeController : Controller
     {
