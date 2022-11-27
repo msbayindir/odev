@@ -7,7 +7,7 @@
     <AssemblyName>Odev</AssemblyName>
   </PropertyGroup>
 
-  <PropertyGroup Condition=" '$(RunConfiguration)' == 'YGTOdev' " />
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'Odev' " />
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.11">
       <PrivateAssets>all</PrivateAssets>
