@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using YGTOdev.Models;
 
-namespace YGTOdev.Controllers
+namespace Odev.Controllers
 {
     public class CustomersController : Controller
     {
